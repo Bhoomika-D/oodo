@@ -1,0 +1,2 @@
+Admin: admin@rewear.com / password
+User: user@example.com / password
